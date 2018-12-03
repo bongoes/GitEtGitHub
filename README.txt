@@ -1,0 +1,1 @@
+Ce projet se concentre sur le workflow de Git et GitHub et démontre comment il fonctionne.
